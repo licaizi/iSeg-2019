@@ -1,7 +1,7 @@
 # iSeg-2019
 
 ## Introduction
-This project is the implementation of our method(Lequan Yu, Caizi Li) for [MICCAI Grand Challenge on 6-month Infant Brain MRI Segmentation from Multiple Sites](http://iseg2019.web.unc.edu/). Our Code is based on [3D_DenseSeg](https://github.com/tbuikr/3D_DenseSeg) and [ADVENT](https://github.com/valeoai/ADVENT). 
+This project is the implementation of our method(Lequan Yu, Caizi Li) for [MICCAI Grand Challenge on 6-month Infant Brain MRI Segmentation from Multiple Sites(iSeg-2019)](http://iseg2019.web.unc.edu/). Our Code is based on [3D_DenseSeg](https://github.com/tbuikr/3D_DenseSeg) and [ADVENT](https://github.com/valeoai/ADVENT). 
 
 ## Requirements
 * PyTorch 1.2
