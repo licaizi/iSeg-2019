@@ -1,0 +1,13 @@
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_11.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_12.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_13.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_14.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_15.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_16.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_17.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_18.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_19.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_20.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_21.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_22.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_val_data/val_iseg_norm_cutedge_weight_23.h5

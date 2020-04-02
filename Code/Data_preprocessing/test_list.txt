@@ -1,0 +1,16 @@
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_24.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_25.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_26.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_27.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_28.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_29.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_30.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_31.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_32.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_33.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_34.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_35.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_36.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_37.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_38.h5
+/home/licaizi/Projects/iSeg2019/Dataset/hdf5_iseg_test_data/test_iseg_norm_cutedge_weight_39.h5
