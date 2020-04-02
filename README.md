@@ -21,9 +21,9 @@ Change the root directory 'PROJECT_ROOT' into your owns in Config.config
 Put the training data, validation data and testing data in 'PROJECT_ROOT/Dataset/src/iSeg-2019-Training', 'PROJECT_ROOT/Dataset/src/iSeg-2019-Validation' and 'PROJECT_ROOT/Dataset/src/iSeg-2019-Testing', respectively.
 
 * Step 3:
-Enter directory 'Data_preprocessing', generate hdf5 files for data of 'Step 2' by 'prepare_hdf5_cutedge.py', 'prepare_hdf5_cutedge_valdata.py' and 'prepare_hdf5_cutedge_testdata.py'. The hdf5 files for training, validation and testing will be found in directory 'PROJECT_ROOT/Dataset/hdf5_iseg_data', 'PROJECT_ROOT/Dataset/hdf5_iseg_val_data' and 'PROJECT_ROOT/Dataset/hdf5_iseg_test_data', respectively.
+cd 'Data_preprocessing', generate hdf5 files for data of 'Step 2' by 'prepare_hdf5_cutedge.py', 'prepare_hdf5_cutedge_valdata.py' and 'prepare_hdf5_cutedge_testdata.py'. The hdf5 files for training, validation and testing will be found in directory 'PROJECT_ROOT/Dataset/hdf5_iseg_data', 'PROJECT_ROOT/Dataset/hdf5_iseg_val_data' and 'PROJECT_ROOT/Dataset/hdf5_iseg_test_data', respectively.
 
 * Step 4:
-Enter directory 'Main', run 'train.py' and 'test.py' for training and testing.
+cd 'Main', run 'train.py' and 'test.py' for training and testing.
 
 
