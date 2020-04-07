@@ -11,7 +11,7 @@ from Data_preprocessing.data_utils import load_test_dataset, \
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 test_save_path = PROJECT_ROOT + 'Dataset/test_ret'
-model_path = PROJECT_ROOT + 'Code/Github/snapshot/checkpoint.pth'
+model_path = PROJECT_ROOT + 'Code/snapshot/checkpoint.pth'
 
 
 def dice(im1, im2, tid):
